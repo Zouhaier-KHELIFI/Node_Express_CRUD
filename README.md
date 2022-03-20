@@ -1,3 +1,5 @@
-# Node_Express_CRUD
+# Node_Express_React
 
-CRUD Application with node& express
+Developing of Portfolio using Node& React 
+
+
