@@ -1,5 +1,5 @@
 # Node_Express_React
 
-Developing of Portfolio using Node& React 
+Developing a Portfolio using Node& React 
 
 
